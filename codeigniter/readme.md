@@ -1,0 +1,35 @@
+# Codeigniter Coding Standards
+
+The codeigniter coding standards used on the old codeigniter repo's. 
+
+## Table of Contents
+
+- [PHP Style Guide]()
+  - [File Format]()
+    - [TextMate]()
+    - [BBEdit]()
+  - [PHP Closing Tag]()
+  - [File Naming]()
+  - [Class and Method Naming]() 
+  - [Variable Names]()
+  - [Commenting]()
+  - [Constants]()
+  - [TRUE, FALSE and NULL]()
+  - [Logical Operators]()
+  - [Comparing return values and typecasting]()
+  - [Debugging code]()
+  - [Whitespace in Files]()
+  - [Compatibility]()
+  - [One File per Class]()
+  - [Whitespace]()
+  - [Line Breaks]()
+  - [Code indenting]()
+  - [Bracket and Perentic spacing]()
+  - [Localized text]()
+  - [Private Methods and variables]()
+  - [PHP Errors]()
+  - [Short Open Tags]()
+  - [One statement per line]()
+  - [Strings]()
+  - [SQL Queries]()
+  - [Default Function Arguments]()
